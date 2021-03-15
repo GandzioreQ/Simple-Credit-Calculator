@@ -7,3 +7,4 @@ You may have a problem with load app, please change port number on config.php fo
 STEP LIST:
 * [Step_1](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_1)
 * [Step_2](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_2)
+* [Step_3](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_3)
