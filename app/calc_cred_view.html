@@ -1,0 +1,48 @@
+{extends file="../templates/main.html"}
+
+{block name="content"}
+<form action="{$app_url}/app/calc_cred.php" method="get">
+    <h1 id="Calc">Kalkulator Kredytowy</h1>
+    <div class="box">
+        <label for="id_amount">Kwota pożyczki:</label>
+        <input id="id_amount" type="text" name="amount" placeholder="Podaj kwotę pożyczki" />
+        <label for="id_period">Termin spłaty (w latach): </label>
+        <input id="id_period" type="text" name="period" placeholder="Podaj ilość lat" />
+        <label for="id_rate">Oprocentowanie(%): </label>
+        <input id="id_rate" type="text" name="rate" placeholder="Podaj oprocentowanie" />
+    </div>
+    
+
+    <div class="button">
+        <input type="submit" class="count-button" value="Oblicz ratę" />	
+        
+    </div>
+    {if isset($result)}
+    <div class="final-result">
+      
+            <p class="final-result-style">Rata miesięczna: {$result} zł.</p>
+       
+    </div>
+     {/if}   
+</form>	
+<div class="error">
+   
+    {if count($messages) > 0}
+            <ol class = "error">
+                {foreach  $messages as $msg}
+                {strip}
+                    <li>{$msg}</li>
+                {/strip}
+                {/foreach}
+                </ol>
+        {/if}
+    
+
+</div>
+{/block}
+
+{block name=footer}
+<p>	
+    @ 2021 | Strona wykanana przez Daniel Gandyra 
+</p>
+{/block}

@@ -1,0 +1,38 @@
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+	<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{$page_title|default:"Tytuł domyślny"}</title>
+	<link rel="stylesheet" type="text/css" href="{$app_url}/css/calc_style.css">
+	<script src="{$app_url}/js/main.js"></script>
+</head>
+	
+<body>
+	<div id="Start" class="header">
+		<div class="nav-bar">
+			<p>
+				Orange Calculator
+			</p>
+			<ol>
+				<li><a href="#Start">Start</a></li>
+				<li><a href="#Calc">Kalkulator</a></li>
+			</ol>
+		</div>
+	</div>
+	<div class="box">
+		<div class="section">
+			<div class="container">
+				{block name=content} Domyślna treść zawartości ... {/block}
+			</div>
+		</div>	
+	</div>
+	<div class="footer">
+		<p>	
+			@ 2021 | Strona wykanana przez Daniel Gandyra 
+		</p>
+	</div>
+
+</body>
+
+</html>

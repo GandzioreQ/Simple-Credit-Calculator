@@ -1,0 +1,71 @@
+*{
+	box-sizing:border-box;
+	margin:0;
+	padding:0;	
+}
+body{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	min-height:100vh;
+	font-family: 'Cormorant Garamond', serif;
+	background: linear-gradient(90deg, rgba(255,255,255,0.8852994372990354) 0%, rgba(255,225,225,1) 0%, rgba(255,242,242,1) 100%);
+}
+#container{
+    margin-bottom: 200px;
+	width:650px;
+	background-color:#fff;
+	box-shadow: 0 0 10px #ffa64d;
+}
+form{
+	
+padding:30px;
+font-size:20px;
+
+}	
+h1{
+	text-align:center;
+	margin-bottom:10px;
+	font-size:80px;
+	color:rgb(204, 136, 0);
+}
+#box{
+    display:flex;
+    justify-content: space-evenly;
+    font-size: 30px;
+    color:rgb(204, 136, 0);
+}
+#box label{
+    display: inline-block;
+	margin-bottom:5px;
+	font-size:28px;   
+}
+#box input{
+    width: 59%;
+    padding: 8px;
+    font-size: 15px;
+}
+#control-button{
+    display:flex;
+    justify-content: center;
+    
+}
+#login_button{
+    margin-top: 25px;  
+    padding: 10px 30px;
+    font-size: 25px;
+    border: 3px solid rgb(230, 153, 0);
+	border-radius: 4px;
+    background-color:rgb(233, 189, 102);
+    color:black;
+    
+}
+#error ol{
+    margin: 20px; 
+    padding: 10px 10px 10px 30px; 
+    border-radius: 5px; 
+    background-color: #f88; 
+    width:600px;
+    List-style: none;
+    font-size:17px;
+    }
