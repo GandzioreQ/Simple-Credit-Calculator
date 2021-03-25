@@ -4,7 +4,7 @@ W razie problemu z załadowaniem projektu, należy zmienić na port 80 <code>def
 
 You may have a problem with load app, please change port number on config.php for default 80.
 
-W 4-tym kroku, zostały użyte Smarty do prostego szablonowania strony. Logowanie do strony zostało chwilowo "zdjęte"
+W 5-tym kroku, zmieniłem aplikację na obiektową."
 
 STEP LIST:
 * [Step_1](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_1)
