@@ -10,3 +10,4 @@ STEP LIST:
 * [Step_3](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_3)
 * [Step_4](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_4)
 * [Step_5](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step5)
+* [Step_6a](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_6a)
