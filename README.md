@@ -9,3 +9,7 @@ W 4-tym kroku, zostały użyte Smarty do prostego szablonowania strony. Logowani
 STEP LIST:
 * [Step_1](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_1)
 * [Step_2](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_2)
+* [Step_3](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_3)
+* [Step_4](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_4)
+* [Step_5](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step5)
+* [Step_6a](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_6a)
