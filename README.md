@@ -4,7 +4,7 @@ W razie problemu z załadowaniem projektu, należy zmienić na port 80 <code>def
 
 You may have a problem with load app, please change port number on config.php for default 80.
 
-W kroku 7b, Zamiana funkcji pomocniczej, automatyzującej wywołanie kontrolera, na obiekt routera. 
+W kroku 8,Stworzenie prostej bazy danych i połączenie z aplikacją. Dodanie podstrony Wyniki, gdzie ukazywane są rekordy z bazy po obliczeniu raty przez klienta.
 
 STEP LIST:
 * [Step_1](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_1)
@@ -16,3 +16,4 @@ STEP LIST:
 * [Step_6b](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_6b)
 * [Step_7a](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_7a)
 * [Step_7b](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_7b)
+* [Step_8](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_8)
