@@ -16,3 +16,4 @@ STEP LIST:
 * [Step_6b](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_6b)
 * [Step_7a](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_7a)
 * [Step_7b](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_7b)
+* [Step_8](https://github.com/GandzioreQ/Simple-Credit-Calculator/tree/Step_8)
